@@ -1,14 +1,9 @@
 ##  Caching the Inverse of a Matrix
 ## Programming Assignment2
 
-## 
-
-makeCacheMatrix <- function(x = matrix()) {
-
-}
 
 
-## Write a short comment describing this function
+## This is part of Programming Assignment 2 that I am wirting a code for. 
 
 
 makeCacheMatrix <- function(x = matrix()) {
